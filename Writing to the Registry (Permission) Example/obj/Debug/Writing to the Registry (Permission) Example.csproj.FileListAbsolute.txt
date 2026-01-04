@@ -1,0 +1,16 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\04 Get Permission To Update Registry\Writing to the Registry (Permission) Example\bin\Debug\Writing to the Registry Example.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\04 Get Permission To Update Registry\Writing to the Registry (Permission) Example\bin\Debug\Writing to the Registry Example.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\04 Get Permission To Update Registry\Writing to the Registry (Permission) Example\bin\Debug\Writing to the Registry Example.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\04 Get Permission To Update Registry\Writing to the Registry (Permission) Example\obj\Debug\Writing to the Registry (Permission) Example.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\04 Get Permission To Update Registry\Writing to the Registry (Permission) Example\obj\Debug\Writing to the Registry (Permission) Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\04 Get Permission To Update Registry\Writing to the Registry (Permission) Example\obj\Debug\Writing to the Registry (Permission) Example.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\04 Get Permission To Update Registry\Writing to the Registry (Permission) Example\obj\Debug\Writing to the Registry Example.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\17 Windows Registry\04 Get Permission To Update Registry\Writing to the Registry (Permission) Example\obj\Debug\Writing to the Registry Example.pdb
+D:\CORSE 20 C#\Writing to the Registry (Permission) Example\bin\Debug\Writing to the Registry Example.exe.config
+D:\CORSE 20 C#\Writing to the Registry (Permission) Example\bin\Debug\Writing to the Registry Example.exe
+D:\CORSE 20 C#\Writing to the Registry (Permission) Example\bin\Debug\Writing to the Registry Example.pdb
+D:\CORSE 20 C#\Writing to the Registry (Permission) Example\obj\Debug\Writing to the Registry (Permission) Example.csproj.AssemblyReference.cache
+D:\CORSE 20 C#\Writing to the Registry (Permission) Example\obj\Debug\Writing to the Registry Example.exe.config
+D:\CORSE 20 C#\Writing to the Registry (Permission) Example\obj\Debug\Writing to the Registry (Permission) Example.csproj.CoreCompileInputs.cache
+D:\CORSE 20 C#\Writing to the Registry (Permission) Example\obj\Debug\Writing to the Registry Example.exe
+D:\CORSE 20 C#\Writing to the Registry (Permission) Example\obj\Debug\Writing to the Registry Example.pdb

@@ -1,0 +1,16 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\11 Serialization\Projects\XML Serialization Example\bin\Debug\XML Serialization Example.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\11 Serialization\Projects\XML Serialization Example\bin\Debug\XML Serialization Example.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\11 Serialization\Projects\XML Serialization Example\bin\Debug\XML Serialization Example.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\11 Serialization\Projects\XML Serialization Example\obj\Debug\XML Serialization Example.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\11 Serialization\Projects\XML Serialization Example\obj\Debug\XML Serialization Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\11 Serialization\Projects\XML Serialization Example\obj\Debug\XML Serialization Example.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\11 Serialization\Projects\XML Serialization Example\obj\Debug\XML Serialization Example.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\11 Serialization\Projects\XML Serialization Example\obj\Debug\XML Serialization Example.pdb
+D:\CORSE 20 C#\XML Serialization Example\bin\Debug\XML Serialization Example.exe.config
+D:\CORSE 20 C#\XML Serialization Example\bin\Debug\XML Serialization Example.exe
+D:\CORSE 20 C#\XML Serialization Example\bin\Debug\XML Serialization Example.pdb
+D:\CORSE 20 C#\XML Serialization Example\obj\Debug\XML Serialization Example.csproj.AssemblyReference.cache
+D:\CORSE 20 C#\XML Serialization Example\obj\Debug\XML Serialization Example.exe.config
+D:\CORSE 20 C#\XML Serialization Example\obj\Debug\XML Serialization Example.csproj.CoreCompileInputs.cache
+D:\CORSE 20 C#\XML Serialization Example\obj\Debug\XML Serialization Example.exe
+D:\CORSE 20 C#\XML Serialization Example\obj\Debug\XML Serialization Example.pdb
