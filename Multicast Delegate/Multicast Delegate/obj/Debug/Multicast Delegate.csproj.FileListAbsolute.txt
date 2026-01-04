@@ -1,0 +1,8 @@
+D:\CORSE 20 C#\Multicast Delegate\Multicast Delegate\bin\Debug\Multicast Delegate.exe.config
+D:\CORSE 20 C#\Multicast Delegate\Multicast Delegate\bin\Debug\Multicast Delegate.exe
+D:\CORSE 20 C#\Multicast Delegate\Multicast Delegate\bin\Debug\Multicast Delegate.pdb
+D:\CORSE 20 C#\Multicast Delegate\Multicast Delegate\obj\Debug\Multicast Delegate.csproj.AssemblyReference.cache
+D:\CORSE 20 C#\Multicast Delegate\Multicast Delegate\obj\Debug\Multicast Delegate.csproj.CoreCompileInputs.cache
+D:\CORSE 20 C#\Multicast Delegate\Multicast Delegate\obj\Debug\Multicast Delegate.exe
+D:\CORSE 20 C#\Multicast Delegate\Multicast Delegate\obj\Debug\Multicast Delegate.pdb
+D:\CORSE 20 C#\Multicast Delegate\Multicast Delegate\obj\Debug\Multicast Delegate.exe.config
