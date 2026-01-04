@@ -1,0 +1,8 @@
+D:\CORSE 20 C#\Task Class With Call back Event Example\bin\Debug\Task Class Example 1.exe.config
+D:\CORSE 20 C#\Task Class With Call back Event Example\bin\Debug\Task Class Example 1.exe
+D:\CORSE 20 C#\Task Class With Call back Event Example\bin\Debug\Task Class Example 1.pdb
+D:\CORSE 20 C#\Task Class With Call back Event Example\obj\Debug\Task Class With Call back Event Example.csproj.AssemblyReference.cache
+D:\CORSE 20 C#\Task Class With Call back Event Example\obj\Debug\Task Class Example 1.exe.config
+D:\CORSE 20 C#\Task Class With Call back Event Example\obj\Debug\Task Class With Call back Event Example.csproj.CoreCompileInputs.cache
+D:\CORSE 20 C#\Task Class With Call back Event Example\obj\Debug\Task Class Example 1.exe
+D:\CORSE 20 C#\Task Class With Call back Event Example\obj\Debug\Task Class Example 1.pdb

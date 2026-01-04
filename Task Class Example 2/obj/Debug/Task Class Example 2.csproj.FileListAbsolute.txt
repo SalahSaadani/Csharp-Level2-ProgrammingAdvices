@@ -1,0 +1,8 @@
+D:\CORSE 20 C#\Task Class Example 2\bin\Debug\Thread Class Example.exe.config
+D:\CORSE 20 C#\Task Class Example 2\bin\Debug\Thread Class Example.exe
+D:\CORSE 20 C#\Task Class Example 2\bin\Debug\Thread Class Example.pdb
+D:\CORSE 20 C#\Task Class Example 2\obj\Debug\Task Class Example 2.csproj.AssemblyReference.cache
+D:\CORSE 20 C#\Task Class Example 2\obj\Debug\Thread Class Example.exe.config
+D:\CORSE 20 C#\Task Class Example 2\obj\Debug\Task Class Example 2.csproj.CoreCompileInputs.cache
+D:\CORSE 20 C#\Task Class Example 2\obj\Debug\Thread Class Example.exe
+D:\CORSE 20 C#\Task Class Example 2\obj\Debug\Thread Class Example.pdb
