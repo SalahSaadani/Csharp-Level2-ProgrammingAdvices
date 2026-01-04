@@ -1,0 +1,8 @@
+D:\CORSE 20 C#\Parallel.For Example 2\Parallel.For Example 2\Parallel.For Example 2\bin\Debug\Parallel.For Example 2.exe.config
+D:\CORSE 20 C#\Parallel.For Example 2\Parallel.For Example 2\Parallel.For Example 2\bin\Debug\Parallel.For Example 2.exe
+D:\CORSE 20 C#\Parallel.For Example 2\Parallel.For Example 2\Parallel.For Example 2\bin\Debug\Parallel.For Example 2.pdb
+D:\CORSE 20 C#\Parallel.For Example 2\Parallel.For Example 2\Parallel.For Example 2\obj\Debug\Parallel.For Example 2.csproj.AssemblyReference.cache
+D:\CORSE 20 C#\Parallel.For Example 2\Parallel.For Example 2\Parallel.For Example 2\obj\Debug\Parallel.For Example 2.csproj.CoreCompileInputs.cache
+D:\CORSE 20 C#\Parallel.For Example 2\Parallel.For Example 2\Parallel.For Example 2\obj\Debug\Parallel.For Example 2.exe
+D:\CORSE 20 C#\Parallel.For Example 2\Parallel.For Example 2\Parallel.For Example 2\obj\Debug\Parallel.For Example 2.pdb
+D:\CORSE 20 C#\Parallel.For Example 2\Parallel.For Example 2\Parallel.For Example 2\obj\Debug\Parallel.For Example 2.exe.config
