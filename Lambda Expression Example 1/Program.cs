@@ -1,0 +1,17 @@
+﻿using System;
+
+class Program
+{
+    // Define a Func delegate for squaring a number using a lambda expression
+    static Func<int, int> square = x => x * x; 
+
+    static void Main()
+    {
+        // Use the square Func to square the number 5
+        int result = square(5);
+
+        // Print the result
+        Console.WriteLine("The square of 5 is: " + result);
+        Console.ReadKey();
+    }
+}
