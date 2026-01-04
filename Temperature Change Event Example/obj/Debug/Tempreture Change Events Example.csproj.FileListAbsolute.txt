@@ -1,0 +1,22 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\Tempreture Change Events Example\bin\Debug\Tempreture Change Events Example.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\Tempreture Change Events Example\bin\Debug\Tempreture Change Events Example.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\Tempreture Change Events Example\bin\Debug\Tempreture Change Events Example.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\Tempreture Change Events Example\obj\Debug\Tempreture Change Events Example.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\Tempreture Change Events Example\obj\Debug\Tempreture Change Events Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\Tempreture Change Events Example\obj\Debug\Tempreture Change Events Example.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\Tempreture Change Events Example\obj\Debug\Tempreture Change Events Example.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\Tempreture Change Events Example\obj\Debug\Tempreture Change Events Example.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\04 Tempreture Change Events Example\bin\Debug\Tempreture Change Events Example.exe.config
+C:\Users\USER\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\04 Tempreture Change Events Example\bin\Debug\Tempreture Change Events Example.exe
+C:\Users\USER\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\04 Tempreture Change Events Example\bin\Debug\Tempreture Change Events Example.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\04 Tempreture Change Events Example\obj\Debug\Tempreture Change Events Example.csproj.AssemblyReference.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\04 Tempreture Change Events Example\obj\Debug\Tempreture Change Events Example.csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\04 Tempreture Change Events Example\obj\Debug\Tempreture Change Events Example.exe
+C:\Users\USER\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\04 Tempreture Change Events Example\obj\Debug\Tempreture Change Events Example.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\03 Tempreture Change Events Example\Project\Tempreture Change Events Example\bin\Debug\Tempreture Change Events Example.exe.config
+C:\Users\USER\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\03 Tempreture Change Events Example\Project\Tempreture Change Events Example\bin\Debug\Tempreture Change Events Example.exe
+C:\Users\USER\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\03 Tempreture Change Events Example\Project\Tempreture Change Events Example\bin\Debug\Tempreture Change Events Example.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\03 Tempreture Change Events Example\Project\Tempreture Change Events Example\obj\Debug\Tempreture Change Events Example.csproj.AssemblyReference.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\03 Tempreture Change Events Example\Project\Tempreture Change Events Example\obj\Debug\Tempreture Change Events Example.csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\03 Tempreture Change Events Example\Project\Tempreture Change Events Example\obj\Debug\Tempreture Change Events Example.exe
+C:\Users\USER\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\03 Tempreture Change Events Example\Project\Tempreture Change Events Example\obj\Debug\Tempreture Change Events Example.pdb
